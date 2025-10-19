@@ -1,3 +1,1 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado o utilizó otros comandos que no se mencionan al realizar la práctica también se debe documentar.
+No tenia idea acerca de nada de los volumenes y es un tema que me pareio un poco interesante e innovador, ayudam mucho en cuestion de que los datos se guarden sin necesidad de tener el contenedor en ese momento y como que se queden en el host que era mi pc, me parece bastanet util en el contexto que puedo eliminar cuando quiera un contenedor y al poner las rutas de los datos que ya tengo guardadas saber que ya voy a tener instalado lo mismo que tenia antes me parece muy bieno, aunque es un poco facil de perderse esta parte de volumenes es interesante la verdad.
